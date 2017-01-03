@@ -1,0 +1,32 @@
+html, body {font-family: "Robotto", Sans-serif}
+	.w3-lobster {font-family: "Lobster", Sans-serif;}
+	.w3-tangerine {font-family: "Tangerine", serif;}
+	.w3-comic {font-family: "Comic Sans MS", cursive, sans-serif;}
+
+#header {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    position: fixed;
+    top: 0;
+    width: 99%;
+}
+
+#navpc {
+	min-width: 500px 
+}
+
+#navmob {
+	text-align: left;
+}
+
+#side {
+	position: fixed;
+	top: 152px;
+}
+
+#footer {
+	bottom: 0px;
+	width: 100%;
+}
